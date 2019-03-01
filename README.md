@@ -11,8 +11,7 @@ How to run:
 	open another powershell:
 	Type: gradle runClient
 
-Group Members: Dominic Cabitac: UI, gradle build
-
- 	       Matt Chan: File I/O, sockets, multi threading 
-	       
-	       Ridge Reventar: UI, fxml, css
+Group Members: 
+	Dominic Cabitac: UI, gradle build
+	Matt Chan: File I/O, sockets, multi threading 	       
+	Ridge Reventar: UI, fxml, css
