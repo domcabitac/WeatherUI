@@ -1,6 +1,5 @@
 URL: https://github.com/aSushiboi/CSCI2020u_Final
 
-
 To download dependencies:
 	Type: gradle depServer
 	then type: gradle depClient
@@ -11,7 +10,8 @@ How to run:
 	open another powershell:
 	Type: gradle runClient
 
-Group Members: 
+Group Members:\
+
 	Dominic Cabitac: UI, gradle build
 	Matt Chan: File I/O, sockets, multi threading 	       
 	Ridge Reventar: UI, fxml, css
