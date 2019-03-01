@@ -2,15 +2,15 @@ URL: https://github.com/aSushiboi/CSCI2020u_Final
 
 To download dependencies:
 
-	Type: gradle depServer
-	then type: gradle depClient
+	Type: "gradle depServer"
+	then type: "gradle depClient"
 
 How to run:
 
-	Open one powershell: 
-	Type: gradle runServer
-	open another powershell:
-	Type: gradle runClient
+	Open One Powershell: 
+	Type: "gradle runServer"
+	Open Another Powershell:
+	Type: "gradle runClient"
 
 Group Members:
 
