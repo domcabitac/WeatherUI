@@ -12,5 +12,7 @@ How to run:
 	Type: gradle runClient
 
 Group Members: Dominic Cabitac: UI, gradle build
+
  	       Matt Chan: File I/O, sockets, multi threading 
+	       
 	       Ridge Reventar: UI, fxml, css
